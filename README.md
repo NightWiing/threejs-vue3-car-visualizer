@@ -1,6 +1,6 @@
 # ThreeJs Rotating Globe with Vue3
 
-![](https://github.com/NightWiing/threejs-vue3-car-visualizer/blob/main/public/carvis.png)
+![](https://github.com/NightWiing/threejs-vue3-car-visualizer/blob/main/public/images/carvis.png)
 
 ## Project Setup
 
